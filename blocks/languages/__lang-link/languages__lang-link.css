@@ -1,0 +1,19 @@
+.languages__lang-link {
+    margin-right: 18px;
+    line-height: 28px;
+    font-size: 24px;
+    list-style: none;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.languages__lang-link:last-child {
+    margin-right: 0;
+}
+
+@media (max-width: 320px) {
+    .languages__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
