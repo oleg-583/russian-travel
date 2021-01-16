@@ -1,7 +1,6 @@
 .lead__figure {
     display: flex;
     flex-flow: column;
-    margin: 0;
     max-width: 984px;
     margin: auto;
 }
