@@ -2,11 +2,12 @@
     font-size: 16px;
     line-height: 18px;
     color: #FFFFFF;
-    margin-right: 20px;
+    /* margin-right: 20px; */
     text-decoration: none;
 }
 
-.footer__link:last-child {
+
+/* .footer__link:last-child {
     margin-right: 0;
 }
 
@@ -23,4 +24,4 @@
     .footer__link:last-child {
         margin: 0 0 48px 0;
     }
-}
+} */

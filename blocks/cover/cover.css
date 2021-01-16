@@ -5,15 +5,15 @@
     background-image: url("../../images/cover-background.png");
     background-repeat: no-repeat;
     background-size: cover;
-    display: flex;
+    /* display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
     position: relative;
-    text-decoration: none;
 }
 
-.cover::after {
+
+/* .cover::after {
     content: "";
     position: absolute;
     top: 0;
@@ -29,7 +29,7 @@
 
 .cover:hover::after {
     opacity: 0.8;
-}
+} */
 
 @media (max-width: 1024px) {
     .cover {
