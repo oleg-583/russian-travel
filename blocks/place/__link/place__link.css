@@ -1,16 +1,16 @@
-.place__website_link {
+.place__link {
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
     color: #FFFFFF;
 }
 
-.place__website_link:hover {
+.place__link:hover {
     opacity: 0.8;
 }
 
 @media (max-width: 510px) {
-    .place__website_link {
+    .place__link {
         margin: 0;
     }
 }
