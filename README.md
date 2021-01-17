@@ -13,4 +13,4 @@
 4. Использование флексбокса и гридов;
 5. Адаптированная верстка.
 ----
-https://oleg-583.github.io/russian-travel/index.html
+https://oleg-583.github.io/russian-travel/
