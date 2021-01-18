@@ -5,3 +5,7 @@
 .header__lang-item:last-child {
     margin-right: 0;
 }
+
+.header__lang-item:hover {
+    opacity: 0.8;
+}
